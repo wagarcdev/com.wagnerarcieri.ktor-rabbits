@@ -1,5 +1,9 @@
 # 🐇 Rabbits Ktor API 🥕
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/wagarcdev/com.wagnerarcieri.ktor-rabbits/master/blob/page_7_ktor.jpg" alt="Apresentação do Pokédex" style="width: 100%">
+</p>
+
 A API Rabbits Ktor é um projeto simples criado com o framework Ktor para explorar suas funcionalidades. Essa API fornece endpoints para obter imagens adoráveis de coelhos.
 
 ## 🛠️ Tecnologias Utilizadas
